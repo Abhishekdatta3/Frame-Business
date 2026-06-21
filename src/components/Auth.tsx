@@ -52,7 +52,7 @@ export default function Auth() {
             <div className="bg-amber-500 p-4 rounded-full mb-4 shadow-lg">
               <Frame className="w-12 h-12 text-white" />
             </div>
-            <h1 className="text-3xl font-bold text-white">Frame Business</h1>
+            <h1 className="text-3xl font-bold text-white">Sai-Art</h1>
             <p className="text-slate-400 mt-2">Order Management System</p>
           </div>
 
