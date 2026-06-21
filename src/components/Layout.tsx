@@ -16,7 +16,7 @@ export default function Layout() {
                 <Frame className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-white">Frame Business</h1>
+                <h1 className="text-xl font-bold text-white">Sai-Art</h1>
                 <p className="text-xs text-slate-400 hidden sm:block">Order Management</p>
               </div>
             </div>
